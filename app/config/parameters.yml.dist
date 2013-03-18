@@ -1,0 +1,14 @@
+parameters:
+    database_driver: pdo_sqlite
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: symblog
+    database_user: user
+    database_password: password
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    database_path: /route/to/symblog.db
